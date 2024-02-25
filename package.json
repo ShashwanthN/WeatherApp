@@ -1,0 +1,23 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "Weather app using api integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashwanthN/WeatherApp.git"
+  },
+  "author": "Shashwanth Sivakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashwanthN/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/ShashwanthN/WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
